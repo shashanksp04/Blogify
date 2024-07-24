@@ -1,6 +1,6 @@
-# Blog
+# Blogify
 
-This project is a full-stack blogging website created as a part of a LinkedIn Learning course. It serves as a practice project to enhance my skills in full-stack development. The website integrates a front-end built with React.js and a back-end developed using JavaScript and MongoDB, utilizing the MERN stack.
+Blogify is a full-stack blogging website created as a part of a LinkedIn Learning course. It serves as a practice project to enhance my skills in full-stack development. The website integrates a front-end built with React.js and a back-end developed using JavaScript and MongoDB, utilizing the MERN stack.
 
 ## Features
 
