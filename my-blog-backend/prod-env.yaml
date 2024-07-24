@@ -1,0 +1,6 @@
+env_variables: 
+  MONGO_DB_USERNAME : shashanksp
+  MONGO_DB_PASSWORD : 8remk8JYr5F6GLdQ
+  MONGO_DB_NAME : Website-Blog
+  MONGO_COLLECTION : Articles
+  MONGO_CONNECTION_STRING : mongodb+srv://shashanksp:8remk8JYr5F6GLdQ@shashank-umd.4ma153p.mongodb.net/?retryWrites=true&w=majority&appName=Shashank-UMD
